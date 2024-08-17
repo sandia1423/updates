@@ -64,7 +64,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 1808bbd2-6991-4d4e-8eaa-fab210fac146-1723687326850
-  [executable_action_instance:e14fa6f6-90ed-4adc-bb97-80a946496559-1723687326850][action_type:joinserver] = localhost
+  [executable_action_instance:e14fa6f6-90ed-4adc-bb97-80a946496559-1723687326850][action_type:joinserver] = 23.230.3.89:25600
   [executable_block:1808bbd2-6991-4d4e-8eaa-fab210fac146-1723687326850][type:generic] = [executables:e14fa6f6-90ed-4adc-bb97-80a946496559-1723687326850;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
