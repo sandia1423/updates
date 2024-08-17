@@ -4,4 +4,4 @@ rmdir /s /q "..\.minecraft\Distant_Horizons_server_data"
 
 
 robocopy ".minecraft" "..\.minecraft" /move /e
-pause
+rmdir /s /q "..\updates"
