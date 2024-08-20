@@ -99,7 +99,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Mp
+  label = 2
   navigatable = true
   element_type = custom_button
   instance_identifier = 8df12305-6fd8-4e8f-b19f-0d6161b885fa-1723749404172
