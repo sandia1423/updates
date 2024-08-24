@@ -1,5 +1,6 @@
 cd /d "%~dp0"
 del ..\.minecraft\mods\offlineskins-1.20.1-v1.jar
+del ..\.minecraft\mods\canary-mc1.20.1-0.3.3.jar
 forfiles /p "..\.minecraft\Distant_Horizons_server_data" /s /m * /d -16/08/2024 /c "cmd /c del /q @file"
 
 
